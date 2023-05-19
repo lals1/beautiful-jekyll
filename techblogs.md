@@ -4,7 +4,7 @@ title: Tech Blogs
 subtitle: I also write some technical blogs for knowledge sharing
 ---
 
-Below are my published technical blogs:
+For the ones interested in technology, below are my published technical blogs:
 
 - [Ansible Tower aka AWX application lifecycle management](https://kumorion.com/2022/08/ansible-tower-aka-awx-application-lifecycle-management)
 - [AWX: Storage optimization for Postgres Database](https://kumorion.com/2022/09/awx-storage-optimization-for-postgres-database)

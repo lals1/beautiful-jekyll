@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to connect
+share-img: /assets/img/shankar.jpg
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Shankar Lal. I have the following life achievements:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Engineer who can control computers
+- Parent
 
 What else do you need?
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I was born and grew up in Sindh, Pakistan, and moved to Finland for better life.
+
+After graduating in master degree in Communication Engineering from the Aalto University in Espoo Finland, I started working for IT tech companies.
+
+During this time, I started writing Blogs as a hobby.
